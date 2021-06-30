@@ -69,3 +69,9 @@ $ resolution -d udtestdev-dns-ipfs.crypto -a
 
 --- Changes from gitbook
 
+
+
+Image from GitBook
+
+![](../.gitbook/assets/image.png)
+
