@@ -9,7 +9,7 @@ A custom resolver can be implemented as a separate contract and its address can 
 
 
 
--- Changes from GitBook
+-- Changes from GitBook 
 
 -- Changes from GitBook
 
