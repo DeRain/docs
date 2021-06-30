@@ -53,7 +53,7 @@ Registry smart contract implements a set of methods allowing to mint new domains
 
 Accounts that are allowed to mint second-level domains \(like 'alice.crypto'\) are called whitelisted minters. Whitelisted minters are limited to only minting new domains. They can't control domain ownership \(e.g. approve or transfer a domain to another owner\) and they can't control domain records. Whitelisted minters are operated by Unstoppable Domains.
 
-Registry smart contract doesn't have an admin, which means that no entity can transfer or manage user domains without their permission. 
+Registry smart contract doesn't have an admin, which means that no entity can transfer or manage user domains without their permission.
 
 A domain owner may perform the following operations with their domains:
 
