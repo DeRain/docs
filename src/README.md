@@ -6,15 +6,9 @@ Unstoppable Domains has introduced a major documentation update. The old Website
 
 This documentation is both an educational and a technical resource. We hope it will be equally useful for both technical and non-technical readers.
 
-
-
 Change from GitBook
 
-Change from GitBook
 
-Change from GitBook
-
-Change from GitBook
 
 ## I want to learn more about Unstoppable Domains
 

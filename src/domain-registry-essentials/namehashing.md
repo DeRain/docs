@@ -59,12 +59,6 @@ Example Response:
 --- Changes from GitHub.  
 --- Changes from GitHub.
 
-
-
-
-
-
-
 Change from GitBook
 
 Change from GitBook

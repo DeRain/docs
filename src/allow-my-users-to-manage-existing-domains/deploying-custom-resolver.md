@@ -7,10 +7,6 @@ Deploying a custom resolver is a way to implement a flexible permission model ov
 
 A custom resolver can be implemented as a separate contract and its address can be assigned as a domain resolver via `Registry#resolveTo`.
 
-
-
--- Changes from GitBook 
-
 -- Changes from GitBook
 
 -- Changes from GitBook
@@ -19,9 +15,7 @@ A custom resolver can be implemented as a separate contract and its address can 
 
 -- Changes from GitBook
 
-
-
-
+-- Changes from GitBook
 
 The custom resolver must implement interfaces [IResolverReader](https://github.com/unstoppabledomains/dot-crypto/blob/master/contracts/IResolverReader.sol) and [ERC165](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-165.md).
 
