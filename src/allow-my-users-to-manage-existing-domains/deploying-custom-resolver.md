@@ -9,3 +9,8 @@ A custom resolver can be implemented as a separate contract and its address can 
 
 The custom resolver must implement interfaces [IResolverReader](https://github.com/unstoppabledomains/dot-crypto/blob/master/contracts/IResolverReader.sol) and [ERC165](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-165.md).
 
+
+--- Changes from Github.   
+--- Changes from GitHub.   
+--- Changes from GitHub.   
+--- Changes from GitHub.   
