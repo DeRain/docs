@@ -8,10 +8,6 @@
 
 --- Test image duplications
 
-
-
-
-
 --- Changes from gitbook
 
 --- Changes from gitbook
