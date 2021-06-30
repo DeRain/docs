@@ -59,8 +59,6 @@ $ resolution -d udtestdev-dns-ipfs.crypto -a
 
 --- Changes from GitHub --- Changes from GitHub --- Changes from GitHub --- Changes from GitHub --- Changes from GitHub
 
-
-
 --- Changes from gitbook
 
 --- Changes from gitbook
@@ -68,8 +66,6 @@ $ resolution -d udtestdev-dns-ipfs.crypto -a
 --- Changes from gitbook
 
 --- Changes from gitbook
-
-
 
 Image from GitBook
 
